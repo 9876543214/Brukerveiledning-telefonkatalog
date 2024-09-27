@@ -34,7 +34,7 @@ sudo ufw allow ssh
 4. Skru på SSH.
 
 ```bash
-sudo apt install openshh-server
+sudo apt install openssh-server
 ```
 ```bash
 sudo systemctl enable ssh
